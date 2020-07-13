@@ -1,0 +1,334 @@
+2020-07-13 17:05:42,725 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:10:10,807 [main] INFO VerifySingnUpPage - 4
+2020-07-13 17:10:10,969 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:24:45,208 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 17:24:45,496 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:31:11,792 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:31:11,843 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:31:11,876 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 17:40:35,417 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 17:40:35,831 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 17:40:35,959 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:40:36,388 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 17:49:13,784 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 17:49:13,840 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 17:49:13,894 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:49:13,929 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 17:50:21,856 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 17:50:21,908 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 17:50:21,956 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 17:50:21,997 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 17:50:22,361 [main] INFO VerifySingnUpPage - Field Name
+2020-07-13 18:05:38,062 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 18:05:38,119 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 18:05:38,168 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 18:05:38,202 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 18:05:38,441 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 18:05:38,782 [main] INFO VerifySingnUpPage - Not Fill Email AddressAnas
+2020-07-13 18:05:38,996 [main] INFO VerifySingnUpPage - Not Fill PasswordAnas
+2020-07-13 18:08:56,067 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 18:08:56,294 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 18:08:56,346 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 18:08:56,517 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 18:08:56,997 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 18:08:57,371 [main] INFO VerifySingnUpPage - Not Fill Email AddressAnas
+2020-07-13 18:08:57,605 [main] INFO VerifySingnUpPage - Not Fill PasswordAnas
+2020-07-13 18:08:57,785 [main] INFO VerifySingnUpPage - Not Fill confirm PasswordAnas
+2020-07-13 18:10:06,508 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 18:10:06,631 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 18:10:06,681 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 18:10:06,840 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 18:10:07,136 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 18:10:07,537 [main] INFO VerifySingnUpPage - Not Fill Email AddressAnas
+2020-07-13 18:10:07,828 [main] INFO VerifySingnUpPage - Not Fill PasswordAnas
+2020-07-13 18:10:08,105 [main] INFO VerifySingnUpPage - Not Fill confirm PasswordAnas
+2020-07-13 18:17:55,935 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 18:17:56,027 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 18:17:56,077 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 18:17:56,206 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 18:17:57,124 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 18:17:57,475 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 18:17:57,698 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 18:17:57,921 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 18:21:09,455 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 18:21:09,576 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 18:21:09,635 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 18:21:09,676 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 18:21:09,986 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 18:21:10,208 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 18:21:10,427 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 18:21:10,657 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 18:27:32,320 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 18:27:32,616 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 18:27:32,663 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 18:27:32,942 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 18:27:33,204 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 18:27:33,440 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 18:27:33,666 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 18:27:33,900 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:04:34,860 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:04:35,322 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:04:35,377 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:04:35,565 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:04:36,122 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:04:36,450 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:04:36,667 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:04:36,882 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:04:37,017 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:05:59,104 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:05:59,400 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:05:59,449 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:05:59,726 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:06:00,065 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:06:00,415 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:06:00,632 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:06:00,846 [main] INFO VerifySingnUpPage - Not Fill confirm PasswordXyz12345
+2020-07-13 19:06:01,002 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:15:39,292 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:15:39,569 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:15:39,620 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:15:40,282 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:15:40,714 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:15:41,062 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:15:41,325 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:15:41,539 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:15:41,674 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:15:41,708 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:15:41,742 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:17:07,641 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:17:07,721 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:17:07,772 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:17:07,822 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:17:08,352 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:17:08,713 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:17:08,942 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:17:09,197 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:17:09,358 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:17:09,411 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:17:09,467 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:20:57,495 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:20:57,753 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:20:57,815 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:20:57,963 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:20:58,343 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:20:58,688 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:20:58,925 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:20:59,158 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:20:59,295 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:20:59,328 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:20:59,364 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:27:09,684 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:27:10,807 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:27:10,855 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:27:11,074 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:27:11,385 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:27:11,692 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:27:11,911 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:27:12,256 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:27:12,395 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:27:12,436 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:27:12,471 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:32:19,535 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:32:19,865 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:32:19,918 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:32:20,037 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:32:20,341 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:32:20,680 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:32:20,928 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:32:21,162 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:32:21,322 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:32:21,376 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:32:21,412 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:39:24,805 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:39:24,877 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:39:24,948 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:39:25,417 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:39:25,956 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:39:26,253 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:39:26,470 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:39:26,693 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:39:26,847 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:39:26,899 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:39:26,940 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:39:27,419 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:39:27,587 [main] INFO VerifySingnUpPage - Not Fill PasswordXyz#12345Xyz#12345
+2020-07-13 19:40:25,511 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:40:25,578 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:40:25,634 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:40:25,667 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:40:25,924 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:40:26,250 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:40:26,487 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:40:26,724 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:40:26,873 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:40:26,922 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:40:26,962 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:43:39,348 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:43:39,755 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:43:39,811 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:43:40,252 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:43:40,560 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:43:40,864 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:43:41,093 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:43:41,315 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:43:41,468 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:43:41,515 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:43:41,556 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:47:20,828 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:47:21,048 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:47:21,098 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:47:21,467 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:47:21,760 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:47:22,074 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:47:22,320 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:47:22,555 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:47:22,706 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:47:22,752 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:47:22,793 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:49:46,556 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:49:46,633 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:49:46,687 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:49:46,953 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:49:47,567 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:49:47,898 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:49:48,142 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:49:48,382 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:49:48,563 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:49:48,616 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:49:48,655 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:55:06,331 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:55:06,564 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:55:06,615 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:55:06,801 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:55:07,068 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:55:07,467 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:55:07,721 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:55:07,970 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:55:08,803 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:55:08,852 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:55:08,896 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:57:19,945 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 19:57:20,109 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 19:57:20,161 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 19:57:20,455 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 19:57:20,752 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 19:57:21,167 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 19:57:21,439 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 19:57:21,677 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 19:57:22,630 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 19:57:22,704 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 19:57:22,750 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:00:08,421 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:00:08,624 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:00:08,679 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:00:08,766 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:00:09,048 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:00:09,365 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:00:09,592 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:00:09,827 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:00:09,982 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:00:10,024 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:00:10,058 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:02:30,246 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:02:30,386 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:02:30,439 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:02:30,584 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:02:31,328 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:02:31,656 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:02:31,887 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:02:32,127 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:02:32,286 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:02:32,341 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:02:32,377 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:10:22,555 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:10:22,739 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:10:22,787 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:10:22,829 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:10:23,211 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:10:23,585 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:10:23,833 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:10:24,055 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:10:24,211 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:10:24,259 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:10:24,307 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:10:29,632 [main] INFO VerifySingnUpPage - Not Fill Email Addressana295@gmail.com
+2020-07-13 20:10:29,854 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:15:21,768 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:15:22,147 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:15:22,195 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:15:22,603 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:15:22,937 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:15:23,237 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:15:23,447 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:15:23,663 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:15:23,814 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:15:23,861 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:15:23,909 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:15:30,231 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:15:30,442 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:21:33,956 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:21:34,018 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:21:34,068 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:21:34,110 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:21:34,432 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:21:34,765 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:21:35,000 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:21:35,222 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:21:35,366 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:21:35,406 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:21:35,439 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:21:41,770 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:21:41,990 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:23:19,371 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:23:19,631 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:23:19,681 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:23:19,935 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:23:20,257 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:23:20,595 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:23:20,816 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:23:21,058 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:23:21,230 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:23:21,277 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:23:21,313 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:23:27,615 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:23:27,828 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:25:40,779 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:25:40,938 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:25:40,988 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:25:41,506 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:25:41,884 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:25:42,178 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:25:42,387 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:25:42,599 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:25:42,737 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:25:42,780 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:25:42,812 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:25:49,137 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:25:49,340 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:28:16,690 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:28:17,773 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:28:17,826 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:28:18,307 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:28:19,249 [main] INFO VerifySingnUpPage - Fill Name
+2020-07-13 20:28:19,605 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:28:19,843 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:28:20,072 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:28:20,215 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:28:20,258 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:28:20,293 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:28:26,585 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:28:26,791 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:32:50,370 [main] INFO VerifySingnUpPage - Title Matched
+2020-07-13 20:32:50,465 [main] INFO VerifySingnUpPage - Headers label matches as expected
+2020-07-13 20:32:50,521 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:32:50,729 [main] INFO VerifySingnUpPage - Count of text box matches as expected
+2020-07-13 20:32:51,050 [main] INFO VerifySingnUpPage - Not Fill NameAnasA
+2020-07-13 20:32:51,359 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:32:51,587 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:32:51,806 [main] INFO VerifySingnUpPage - Fill confirm Password
+2020-07-13 20:32:51,964 [main] INFO VerifySingnUpPage - User enter information is not correct
+2020-07-13 20:32:52,010 [main] INFO VerifySingnUpPage - Headers label matches not expected
+2020-07-13 20:32:52,055 [main] INFO VerifySingnUpPage - Headers matches as expected
+2020-07-13 20:32:58,366 [main] INFO VerifySingnUpPage - Fill Email Address
+2020-07-13 20:32:58,610 [main] INFO VerifySingnUpPage - Fill Password
+2020-07-13 20:33:04,875 [main] INFO VerifySingnUpPage - Successfully Logout the user
